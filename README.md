@@ -12,7 +12,7 @@ Segue as instruções para realização do projeto, as fotos no repositório ir�
 
 ## Criando par de chaves
 1. Clique no seu nome com botão esquerdo e vá para Credenciais de segurança
-2.- Em chaves de acesso crie a sua e salve-a em um local protegido
+2. Em chaves de acesso crie a sua e salve-a em um local protegido
 
 ## Criando Bando de dados e tabelas no Redshift
 1. Entre no Redshift e clique em criar Cluster.
